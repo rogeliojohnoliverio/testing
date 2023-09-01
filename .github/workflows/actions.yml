@@ -1,4 +1,4 @@
-name: Say Hello World
+name: Code Review
 on:
   pull_request:
     types:
